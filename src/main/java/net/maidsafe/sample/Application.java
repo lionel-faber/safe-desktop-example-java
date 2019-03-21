@@ -43,7 +43,7 @@ public class Application {
         Logger logger = Logger.getLogger("ApplicationLog");
         try {
             // initialize an net.maidsafe.sample.Application instance
-            App app = new App("net.maidsafe.tutorials.java", "Safe TODO Java",
+            App app = new App("net.maidsafe.tutorials.java", "Java CLI Example",
                   "Maidsafe.net", "0.1.0");
 
             // Acquire lock using net.maidsafe.sample.Application ID to maintain a single application instance
