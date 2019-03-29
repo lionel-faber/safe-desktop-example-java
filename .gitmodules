@@ -1,0 +1,3 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/lionel1704/safe-desktop-example-java.wiki.git
